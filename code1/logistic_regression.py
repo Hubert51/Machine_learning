@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cv2
 import random
-from scipy.special import legendre
 from numpy.linalg import inv
 import matplotlib.cm as cm
 from math import e
